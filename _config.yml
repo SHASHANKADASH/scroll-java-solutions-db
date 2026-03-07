@@ -1,0 +1,10 @@
+title: Scroll Java Explanations
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: just-the-docs
+plugins:
+  - jekyll-feed
+search_enabled: true
+nav_enabled: true
+color_scheme: dark
