@@ -2,6 +2,7 @@
 layout: default
 title: Increment Operator
 nav_order: 1
+parent: Beginner
 ---
 
 # Question
@@ -78,4 +79,4 @@ System.out.println(++a); // prints 6
 Java evaluates expressions **from left to right**, which determines how mixed increment operators behave inside expressions.
 
 # Further Reading
-[Link Text](https://www.geeksforgeeks.org/cpp/increment-and-decrement-operators-in-programming/#increment-operators-in-java)
+[Increment decrement operators](https://www.geeksforgeeks.org/cpp/increment-and-decrement-operators-in-programming/#increment-operators-in-java)
